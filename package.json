@@ -1,0 +1,14 @@
+{
+  "name": "nowos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Boaz Tjallinks <blltjallinks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-cron": "^2.0.3",
+    "owofy": "^1.0.2",
+    "path": "^0.12.7",
+    "twitter": "^1.7.1"
+  }
+}
